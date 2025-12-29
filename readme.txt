@@ -5,15 +5,7 @@
 Project Title: Real-Time Virtual Painter using Hand Gesture Recognition
 
 Description:
-This Python application uses a webcam to track the user's hand gestures in real-time. It allows the user to draw on the screen with their index finger, select different colors, and use an eraser, all through intuitive hand movements.
-
-Collaborators : Aman Wadhwa, Mansehaj Preet Singh
-Roll no. : 102303550, 102303544
-
-Work Division : 
-- Aman Wadhwa : Backend vision engine
-- Mansehaj Preet Singh : Frontend application logic
-(Explained properly in the report)
+This Python application uses a webcam to track the user's hand gestures in real-time. It allows the user to draw on the screen with their index finger, select different colors, and use an eraser, all through intuitive hand movements.  
 
 ------------------------------------------------------------------
 Features:
@@ -61,6 +53,7 @@ How to Run the Code:
 6.  Run the Application:
     Execute the main script to start the program:
     python main.py
+    Wait about 10-20 seconds to camera to start.
 
 ------------------------------------------------------------------
 How to Use the Application:
